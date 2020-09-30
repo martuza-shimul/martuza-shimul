@@ -29,7 +29,6 @@ In my spare time I do courses on [Frontend Masters](https://frontendmasters.com/
 - [Twitter](https://twitter.com/MartuzaShimul)
 - [Linkedin](https://www.linkedin.com/in/martuza-shimul/)
 - [Facebook](https://www.facebook.com/martuza.shimul)
-- [Email](martuza.shimul@gmail.com)
-- [Resume](http://bit.ly/mart_Cv)
+- [Resume](https://bit.ly/3ilxUeB)
 
 **N.B:** I like to collaborate with new people. If you have a unique idea and you want me to be on your side as a developer/team member, I would love to be a part of that. And if it's giving prosperity to this earth or for underprivileged then I'll do it for free.
